@@ -1,3 +1,3 @@
 # My-Website
-It’s my websut
+It’s my website 
 <p so cool
